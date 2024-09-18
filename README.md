@@ -1,6 +1,3 @@
-Here is a `README.md` file for your Node.js and Express API project:
-
-```markdown
 # Healthcare Services API
 
 This is a simple API built using Node.js, Express, and MongoDB to manage a list of healthcare services. It allows users to add, update, retrieve, and delete healthcare services.
